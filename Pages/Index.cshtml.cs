@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -40,4 +40,8 @@ public class IndexModel : PageModel
         }
     }
 }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> c25175b24fd5961d6f45c2e5000478a7a6f008ab
