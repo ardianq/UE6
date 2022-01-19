@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ILOga6BGWb9FXddh7xn9dlYij+hoGJeNFrXXIwltda+kF2ma/2aqQnFKCP0CjFKE7sCH6YBCBVjClETwhHd2qQ==",
+  "success": true,
+  "projectFilePath": "/Users/ardian/UE6/UE6.csproj",
+  "expectedPackageFiles": [
+    "/Users/ardian/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.13/microsoft.netcore.app.host.osx-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
