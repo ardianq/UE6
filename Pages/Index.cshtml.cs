@@ -5,10 +5,15 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
+using Microsoft.Graph;
+using System.IO;
+using Microsoft.Identity.Web;
+
 
 namespace UE6.Pages
 {
-[AuthorizeForScopes(Scopes = new[] { "user.read" })]
+
+    [AuthorizeForScopes(Scopes = new[] { "user.read" })]
 public class IndexModel : PageModel
 {
     private readonly ILogger<IndexModel> _logger;
@@ -40,8 +45,4 @@ public class IndexModel : PageModel
         }
     }
 }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> c25175b24fd5961d6f45c2e5000478a7a6f008ab

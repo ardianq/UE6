@@ -7,6 +7,8 @@
   <ItemGroup>
     <PackageReference Include="Azure.Identity" Version="1.5.0" />
     <PackageReference Include="Azure.Storage.Blobs" Version="12.10.0" />
+    <PackageReference Include="Microsoft.Identity.Web" Version="1.22.1" />
+    <PackageReference Include="Microsoft.Identity.Web.MicrosoftGraph" Version="1.22.1" />
   </ItemGroup>
 
 </Project>

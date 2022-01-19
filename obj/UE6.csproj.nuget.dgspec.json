@@ -45,6 +45,14 @@
             "Azure.Storage.Blobs": {
               "target": "Package",
               "version": "[12.10.0, )"
+            },
+            "Microsoft.Identity.Web": {
+              "target": "Package",
+              "version": "[1.22.1, )"
+            },
+            "Microsoft.Identity.Web.MicrosoftGraph": {
+              "target": "Package",
+              "version": "[1.22.1, )"
             }
           },
           "imports": [
