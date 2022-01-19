@@ -1,9 +1,24 @@
 {
   "version": 2,
-  "dgSpecHash": "ILOga6BGWb9FXddh7xn9dlYij+hoGJeNFrXXIwltda+kF2ma/2aqQnFKCP0CjFKE7sCH6YBCBVjClETwhHd2qQ==",
+  "dgSpecHash": "/XHuPQNLScYMV3fKyBZ8wJI399ljNNg73oSxbFNYvbdX22pH9UY2+tvwYrE+gDXxcSYBcP3OeRPnPDv8GneaFA==",
   "success": true,
   "projectFilePath": "/Users/ardian/UE6/UE6.csproj",
   "expectedPackageFiles": [
+    "/Users/ardian/.nuget/packages/azure.core/1.20.0/azure.core.1.20.0.nupkg.sha512",
+    "/Users/ardian/.nuget/packages/azure.identity/1.5.0/azure.identity.1.5.0.nupkg.sha512",
+    "/Users/ardian/.nuget/packages/azure.storage.blobs/12.10.0/azure.storage.blobs.12.10.0.nupkg.sha512",
+    "/Users/ardian/.nuget/packages/azure.storage.common/12.9.0/azure.storage.common.12.9.0.nupkg.sha512",
+    "/Users/ardian/.nuget/packages/microsoft.bcl.asyncinterfaces/1.0.0/microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "/Users/ardian/.nuget/packages/microsoft.identity.client/4.30.1/microsoft.identity.client.4.30.1.nupkg.sha512",
+    "/Users/ardian/.nuget/packages/microsoft.identity.client.extensions.msal/2.18.4/microsoft.identity.client.extensions.msal.2.18.4.nupkg.sha512",
+    "/Users/ardian/.nuget/packages/system.diagnostics.diagnosticsource/4.6.0/system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "/Users/ardian/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/ardian/.nuget/packages/system.memory.data/1.0.2/system.memory.data.1.0.2.nupkg.sha512",
+    "/Users/ardian/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/ardian/.nuget/packages/system.security.cryptography.protecteddata/4.5.0/system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "/Users/ardian/.nuget/packages/system.text.encodings.web/4.7.2/system.text.encodings.web.4.7.2.nupkg.sha512",
+    "/Users/ardian/.nuget/packages/system.text.json/4.6.0/system.text.json.4.6.0.nupkg.sha512",
+    "/Users/ardian/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "/Users/ardian/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.13/microsoft.netcore.app.host.osx-x64.5.0.13.nupkg.sha512"
   ],
   "logs": []
